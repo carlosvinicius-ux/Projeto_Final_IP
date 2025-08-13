@@ -71,6 +71,12 @@ source venv/bin/activate
 # 👨‍🔬🐒💡 Personagems
 ![TELA INICIAL](IP/flinn.png)
 ![TELA INICIAL](IP/macaco.png)
+
+# 🤖💥 Cenarios
+![TELA INICIAL](IP/tela_fase1.jpg)
+![TELA INICIAL](IP/tela_fase2.jpg)
+![TELA INICIAL](IP/escolhapersonagens.png)
+
 # 🍕🎉 Vitoria
 ![TELA INICIAL](/IP/fim_jogo.png)
 
