@@ -4,7 +4,7 @@
 - Este é um mini-jogo de plataforma desenvolvido em Pygame, inspirado na clássica animação "Tá Chovendo Hambúrguer". Nele, você pode escolher entre o inventor Flint Lockwood 👨‍🔬 e seu fiel companheiro, o Macaco Steve 🐒, para enfrentar uma chuva de comidas e perigos.
 O jogo é dividido em duas fases distintas, cada uma com seus próprios desafios e objetivos.
 
-##**As Fases do Jogo**
+## **As Fases do Jogo**
 - Fase 1: A Chuva de Hambúrgueres
 Na primeira fase, seu objetivo é sobreviver à chuva de alimentos enquanto coleta 15 hambúrgueres 🍔 para avançar. No entanto, o céu não está apenas para delícias:
 Bombas 💣: Evite-as a todo custo ou você perderá uma vida.
