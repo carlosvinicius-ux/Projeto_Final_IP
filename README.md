@@ -48,7 +48,7 @@ git clone https://github.com/carlosvinicius-ux/Projeto_Final_IP.git
 python ""nome do arquivo.py""
 ```
 
-# Criaçao do hambiente virtual (recommended):
+# Criaçao do hambiente virtual (recomendavel):
 - No Windows:
 ```
 python -m venv venv
