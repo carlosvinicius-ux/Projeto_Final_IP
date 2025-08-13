@@ -80,3 +80,10 @@ source venv/bin/activate
 ![TELA INICIAL](IP/tela_perdeu.png)
 
 
+# Divisao de tarefas do grupo
+-
+-
+-
+-
+-
+-
