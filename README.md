@@ -24,13 +24,35 @@
 - 🌀 Efeitos especiais como pulo e lentidão temporária.
 - 🔚 Condições de vitória e derrota com tela de game over.
 
-
 # Bibliotecas utilizadas:
 - pygame: para criação da interface gráfica, controle de eventos e manipulação de imagens/sons.
 - random: para geração de valores aleatórios usados no comportamento do jogo.
 
-# 
+# Instalaçao
+1. Clone o repositorio:
+```
+git clone https://github.com/carlosvinicius-ux/Projeto_Final_IP.git
+```
+2. Instale as dependencias:
+```
+""pip install -r requirements.txt""
+```
+3. Execute:
+```
+python ""nome do arquivo.py""
+```
 
+# Create a virtual environment (recommended):
+- No Windows:
+```
+python -m venv venv
+venv\Scripts\activate
+```
+- No Mac/Linux:
+```
+python -m venv venv
+source venv/bin/activate
+```
 
 
 
