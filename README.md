@@ -1,8 +1,6 @@
 # Projeto IP - equipe 1
-- Projeto de Introdução à Programação para criar um jogo em Python utilizando o Pygames.
-
-**INTRODUÇÃO**
-AQUI VAI FICARA A INTRODUÇAO
+ Projeto de Introdução à Programação para criar um jogo em Python utilizando o Pygames.
+- **INTRODUÇÃO**: AQUI VAI FICARA A INTRODUÇAO
 
 # Tecnologia utilizadas:
 - Python 3.13.3
