@@ -68,6 +68,10 @@ source venv/bin/activate
 # 🌧️🍔 Instruçao 
 ![TELA INICIAL](/IP/instrucoes.png)
 
+# 👨‍🔬🐒💡 Personagems
+![TELA INICIAL](IP/flinn.png)
+![TELA INICIAL](IP/macaco.png)
+
 # 🍕🎉 Vitoria
 ![TELA INICIAL](/IP/fim_jogo.png)
 
