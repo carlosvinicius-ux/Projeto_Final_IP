@@ -76,7 +76,7 @@ source venv/bin/activate
 # 😞🍔 Derrota
 ![TELA INICIAL](IP/tela_perdeu.png)
 
-- Membros da equipe:
+# Membros da equipe:
 - Carlos Vinicius Felix da Silva <cvfs>
 - Efraim Santana Bispo da Silva <esbs>
 - Joyce Gabriele da Silva Pereira <jgsp3>
