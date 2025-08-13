@@ -76,7 +76,13 @@ source venv/bin/activate
 # 😞🍔 Derrota
 ![TELA INICIAL](IP/tela_perdeu.png)
 
-- Membros da equipe: *Carlos Vinicius Felix da Silva <cvfs>; Efraim Santana Bispo da Silva <esbs>; Joyce Gabriele da Silva Pereira <jgsp3>; João Gustavo Guimaraes Pires <jggp>; João Henrique dos Santos Silva <jhss2>; Lucas David Lima Ferreira <ldlf>;*
+- Membros da equipe:
+- Carlos Vinicius Felix da Silva <cvfs>
+- Efraim Santana Bispo da Silva <esbs>
+- Joyce Gabriele da Silva Pereira <jgsp3>
+- João Gustavo Guimaraes Pires <jggp>
+- João Henrique dos Santos Silva <jhss2>
+- Lucas David Lima Ferreira <ldlf>
 
 # Divisao de tarefas do grupo
 -
