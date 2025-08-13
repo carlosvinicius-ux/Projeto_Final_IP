@@ -7,9 +7,9 @@ O jogo é dividido em duas fases distintas, cada uma com seus próprios desafios
 ## **As Fases do Jogo**
 - Fase 1: A Chuva de Hambúrgueres
 
-Na primeira fase, seu objetivo é sobreviver à chuva de alimentos enquanto coleta 15 hambúrgueres 🍔 para avançar. No entanto, o céu não está apenas para delícias:
-Bombas 💣: Evite-as a todo custo ou você perderá uma vida.
-Cachorros-Quentes Mofados 🌭: Tocar neles não tira vida, mas deixa seu personagem mais lento por alguns segundos, tornando mais difícil desviar dos perigos.
+Na primeira fase, seu objetivo é sobreviver à chuva de alimentos enquanto coleta 15 hambúrgueres 🍔 para avançar. No entanto, o céu não está apenas para delícias
+Bombas 💣 Evite-as a todo custo ou você perderá uma vida.
+Cachorros-Quentes Mofados 🌭 Tocar neles não tira vida, mas deixa seu personagem mais lento por alguns segundos, tornando mais difícil desviar dos perigos.
 
 - Fase 2: Invasão dos Donuts
 
