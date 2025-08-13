@@ -8,3 +8,4 @@
 
 	Este relatório busca explicar o processo de criação do projeto Frog Adventures e analisar o trabalho da equipe durante o processo, observando o desenvolvimento da estrutura do projeto, as dificuldades enfrentadas pela equipe e todo o processo de idealização decorrido.
 	O projeto é feito na linguagem de Python e sob o domínio de Programação Orientada a Objetos, sendo resultado do desempenho dos integrantes no que foi aprendido a respeito dos exercícios da linguagem Python.
+<img src="/sprites/foto_jogo.png">
