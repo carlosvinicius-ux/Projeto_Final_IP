@@ -1,5 +1,6 @@
 # Projeto IP - equipe 1
 - Introduçao
+
  Este é um mini-jogo de plataforma desenvolvido em Pygame, inspirado na clássica animação "Tá Chovendo Hambúrguer". Nele, você pode escolher entre o inventor Flint Lockwood 👨‍🔬 e seu fiel companheiro, o Macaco Steve 🐒, para enfrentar uma chuva de comidas e perigos.
 
 O jogo é dividido em duas fases distintas, cada uma com seus próprios desafios e objetivos.
@@ -14,6 +15,7 @@ Cachorros-Quentes Mofados 🌭: Tocar neles não tira vida, mas deixa seu person
 
 Fase 2: Invasão dos Donuts
 Após provar seu valor, você avança para a Fase 2, onde o desafio aumenta drasticamente. A frequência de bombas é muito maior e o objetivo agora é coletar 10 donuts 🍩 para zerar o jogo. Seus reflexos serão testados ao máximo para desviar dos explosivos e pegar os doces.
+
 # Tecnologia utilizadas:
 - Python 3.13.3
 
