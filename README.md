@@ -62,5 +62,8 @@ source venv/bin/activate
 
 
 
-
+# 🎬 Tela Inicial – Tá Chovendo Hambúrguer
 ![TELA INICIAL](/IP/tela_inicial.png)
+
+# 🌧️🍔🍩 Instruçao - Para o jogo
+![TELA INICIAL](/IP/instrucoes.png)
