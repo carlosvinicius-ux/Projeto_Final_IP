@@ -1,4 +1,4 @@
-# ProjetoIPequipe5
+# ProjetoIPequipe1
 **Projeto de Introdução à Programação para criar um jogo em Python utilizando o Pygames.**
 
 **Membros da equipe:** *Carlos Vinicius Felix da Silva <cvfs>; Efraim Santana Bispo da Silva <esbs>; Joyce Gabriele da Silva Pereira <jgsp3>; João Gustavo Guimaraes Pires <jggp>; João Henrique dos Santos Silva <jhss2>; Lucas David Lima Ferreira <ldlf>;*
